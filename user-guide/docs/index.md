@@ -19,4 +19,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## API Reference
 
-To view the developer API documentation, [click here](../../docs/build/html/index.html).
+To view the developer API documentation, [click here](https://pralhad-nasane.github.io/tool_a/api/).
