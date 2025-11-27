@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VSCode or IDE configs
+.vscode/
+.idea/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (Sphinx + MkDocs)
+docs/build/
+user-guide/site/
+deploy/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS or tooling metadata
+*.swp
+*.swo
+
+# Python egg and build metadata
+*.egg-info/
+build/
+dist/
+
+# Node modules (if front-end scripts are ever added)
+node_modules/
+
+

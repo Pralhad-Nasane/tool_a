@@ -1,0 +1,10 @@
+site_name: Tool A - User Guide
+
+nav:
+  - Home: index.md
+  - Tool Usage: usage.md
+  - Publishing Guide: publishing.md
+  - Developer API Docs: https://studio-tools.com/api-docs/
+
+theme:
+  name: material
